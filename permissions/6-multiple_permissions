@@ -1,2 +1,2 @@
 #!/bin/bash
-rwx---r-x hello
+chmod 704 hello
